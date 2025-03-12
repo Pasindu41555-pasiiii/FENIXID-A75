@@ -7,8 +7,8 @@ module.exports = {
     blackList: process.env.BLACK_LIST ? process.env.BLACK_LIST.split(',') : [],
     whiteList: process.env.WHITE_LIST ? process.env.WHITE_LIST.split(',') : [],
 
-    fenixaboutype: process.env.FENIX_ABOUT_TYPE || 'Programming',
-    ownerNumber: process.env.OWNER_NUMBER || '94773010580',
+    fenixaboutype: process.env.FENIX_ABOUT_TYPE || 'For Status Views',
+    ownerNumber: process.env.OWNER_NUMBER || '94759892523',
     userTimezone: process.env.USER_TIMEZONE || 'Asia/Colombo',
     FenixName: process.env.FENIX_NAME || 'Unknown Friend',
 
